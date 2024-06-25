@@ -1,0 +1,727 @@
+header {
+    padding: 10px;
+}
+header{
+    text-align: right;
+    }
+    button {
+        cursor: pointer;
+        border: 1px solid #cccccc;
+        text-align: right;
+        padding: 5px;
+        margin-left: 8px;
+        border-radius: 20px;
+        border-left: #222;
+        border-right: #222;
+        border-top: #222;
+        border-color: #222;
+    }
+    .dark{
+        background-color: black;
+  color: white;
+    }
+h1 {
+    color: rgb(31, 110, 140);
+    text-align: center;
+}
+hr {
+    border: 0;
+    border-top: 2px solid rgb(238, 237, 237);
+}
+div {
+    max-width: 1400px;
+    margin-left:  auto;
+    margin-right: auto;
+}
+nav a:any-link {
+    color: rgb(66, 105, 158);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    float: none;
+    padding: 14px 16px;
+    font-display: block;
+    margin: 5px;
+    padding:5px;
+}
+a:hover:any-link {
+    color: white;
+    background-color: rgb(45, 67, 86);
+}
+.test-1 {
+    background-color: rgb(33, 42, 62);
+    color: aliceblue;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    margin-top: 24px;
+    margin-bottom: 1px;
+}
+#form-1 {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#HTML-levoric-html5 {
+    background-color: rgb(241, 246, 249);
+    padding: 20px;
+}
+.HTML-levoric-html55 {
+    width: 700px;
+    height: 500px;
+    background-color: grey;
+    border-radius: 2px;
+}
+#Levoric-html5 {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Levoric-html5-version-5 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.html-5-levoric-course {
+    text-align: left;
+}
+.container-main-window {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#HTML-levoric-html5-6 {
+    background-color: aliceblue;
+    padding: 20px;
+}
+.HTML-levoric-html5-6 {
+    width: 700px;
+    height: 795px;
+    background-color: grey;
+    border-radius: 2px;
+}
+.container-main-window-levoric-3 {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#levoric-hr-window {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#levoric-hr-1 {
+    border: 0;
+    border-top: 2px solid rgb(238, 237, 237);
+}
+#levoric-page3-window {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+  .scroll-bar {
+    width:800px;
+    height: 795px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    overscroll-behavior: contain;
+  }
+  .html-5-scroll-page {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 102%;
+    font-size: 2em;
+    overscroll-behavior: contain;
+  }
+  .scroll-bar-1 {
+    width:800px;
+    height: 410px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    overscroll-behavior: contain;
+  }
+.scroll-bar-4 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 102%;
+    font-size: 2em;
+    overscroll-behavior: contain;
+}
+  .scroll-bar-2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 102%;
+    font-size: 2em;
+    overscroll-behavior: contain;
+  }
+  #form-2 {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .test-2 {
+    background-color: rgb(223, 223, 223);
+    color: rgb(29, 29, 29);
+    padding-top: 1px;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-top: 24px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  #hr-2 {
+    border: 0;
+    border-top: 2px solid rgb(238, 237, 237);
+  }
+  #hr-3 {
+    border: 0;
+    border-top: 2px solid rgb(238, 237, 237);
+  }
+  #hr-4 {
+    border: 0;
+    border-top: 2px solid rgb(238, 237, 237);
+  }
+  #span-3 {
+    color: rgb(27, 27, 27);
+    font-family: 'Times New Roman', Times, serif;
+  }
+.HTML-2 {
+    background-color: FFA559;
+    color: rgb(226, 226, 226);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+
+}
+.Output-3 {
+    color: rgb(29, 29, 29);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.Output-4 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.Output-8 {
+    display: inline-block;
+    text-decoration: underline;
+}
+.link-20 a:any-link {
+    text-decoration: underline;
+}
+.CSS-3 {
+    background-color: rgb(236, 242, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+.CSS-4 {
+    background-color: rgb(236, 242, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.TypeScript-5 {
+    background-color: rgb(255, 217, 90);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+
+}
+.Python-6 {
+    background-color: 64CCC5;
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.JavaScript-7 {
+    background-color: rgb(244, 209, 96);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.JQuery-8 {
+    background-color: rgb(251, 238, 172);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17;
+    padding: 10px;
+}
+.React-9 {
+    background-color: rgb(25, 167, 206);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17;
+    padding: 10px;
+}
+.C-10 {
+    background-color: rgb(6, 143, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.Java-11 {
+    background-color: rgb(192, 127, 0);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.Chash-12 {
+    background-color: rgb(6, 143, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.SQL-13 {
+    background-color: rgb(236, 242, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.NodeJs-14 {
+    background-color: rgb(0, 85, 85);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font: 17px;
+    padding: 10px;
+}.C-15 {
+    background-color: rgb(6, 143, 255);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font: 17px;
+    padding: 10px;
+}
+.PHP-16 {
+    background-color: rgb(130, 148, 196);
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.Editor-17 {
+    background-color: 009EFF;
+    color: rgb(83, 127, 231);   
+    width: 110px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+.Windows-18 {
+    background-color: rgb(0, 231, 255);
+    color: rgb(83, 127, 231);   
+    width: 255px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+}
+a:any-link {
+    text-decoration: dashed;
+}
+:hover a:any-link {
+    text-decoration: dashed;
+}
+.link-1:hover:link {
+    color: rgb(83, 127, 231);
+    background-color: rgb(236, 242, 255);
+}
+.link-2:hover:link {
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-3:hover:link {
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-4:hover:any-link{
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-5:hover:any-link {
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-6:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-7:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-8:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-9:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-10:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-11:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-12:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-13:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-14:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-15:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-16:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+.link-17:hover:any-link { 
+    color: rgb(104, 140, 223);
+    background-color: rgb(236, 242, 255);
+}
+#searchbar {
+    width: 450px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: rgb(160, 191, 224);
+}
+ul li,
+.Levoric-1 {
+    color: rgb(255, 255, 255);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-1 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;    
+}
+.Levoric-2 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-3 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-4 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-5 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-6 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-7 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-8 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-9 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-10 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-11 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-12 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-13 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-14 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-15 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-16 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-17 a:any-link {
+    color: rgb(29, 93, 155);
+    content-visibility: visible;
+    backface-visibility: hidden;
+}
+.Levoric-1 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-2 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-3 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-4 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-5 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-6 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-7 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-8 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-9 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-10 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-11 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-12 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-13 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-14 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-15 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-16 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-17 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-1 a:hover:any-link {
+    color: white;
+    width: 100px;
+    border-radius: 2px;
+    background-color: black;
+}
+.Levoric-html-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.levoric-css-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.span-4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+.span-5 {
+    color: rgb(172, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.st-1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.html-levoric-1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container-main-window-levoric-4 {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-left: auto;
+}
+.levoric-footer-div-width-1 {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.levoric-footer-1 {
+    text-align: center;
+    border-radius: 2px;
+    padding: 30px;
+    background-color: grey;
+}
+.levoric-span-1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.levoric-footer-2 {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.levoric-footer-3 {
+    padding-left: 2px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Levoric-footer-4 {
+    padding-right: 40px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.levoric-footer-5 {
+    padding-left: 50px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.levoric-footer-learn {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.levoric-footer-learn-w {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+.levoric-footer-learn-n {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.levoric-footer-learn-k {
+    color:rgb(0, 4, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Levoric_learning-aria-1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
