@@ -1,0 +1,270 @@
+.slider {
+    width: 1800px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    overflow-x: scroll;
+    background-color: rgb(255, 255, 255);
+
+    overflow-y: hidden;
+  }
+  
+  .slider::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .slider .slide {
+    display: flex;
+    position: absolute;
+    width: 100px;
+    cursor: pointer;
+    left: 0;
+    transition: 0.3s left ease-in-out;
+  }
+  
+  .slider .item {
+    margin-right: 20px;
+  }
+  
+  .slider .item:last-child {
+    margin-right: 0;
+  }
+  
+  .ctrl {
+    text-align: center;
+    margin-top: 5px;
+  }
+  
+  .ctrl-btn {
+    padding: 20px 20px;
+    min-width: 50px;
+    background: #5f6fff;
+    border: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    margin-top: -27.5px;
+  }
+  
+  .ctrl-btn.pro-prev {
+    left: 0;
+  }
+  
+  .ctrl-btn.pro-next {
+    right: 0;
+  }
+
+  #item-a {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-b {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-c {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-d {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-e {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-f {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-g {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-h {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-i {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-j {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-k {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-l {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-m {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  #item-n {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  
+  #item-o {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-p {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-q {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-r {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-s {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-t {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-u {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-v {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-w {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-x {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-y {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-z {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ab {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ac {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ad {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ae {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-af {
+    border: 2px solid rgb(90, 101, 255);
+  }  #item-ag {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ah {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ai {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-aj {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ak {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-al {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-am {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-an {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ao {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ap {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-aq {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ar {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-as {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-at {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-au {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-av {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-aw {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ax {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-ay {
+    border: 2px solid rgb(90, 101, 255);
+  }
+  #item-az {
+    border: 2px solid rgb(90, 101, 255);
+  }
+
+  .gt-hr-levoriclearn-new-technology-creatorg-a {
+    border: 1px solid rgb(82, 82, 94);
+  }
+
+  .gt-levoriclearn-all-coure-gt-a {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 78.50%;
+  }
+  .gt-levoriclearn-all-coure-gt-b {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 76.50%;
+  }
+  .gt-levoriclearn-all-coure-gt-c {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 86.50%;
+  }
+  .gt-levoriclearn-all-coure-gt-d {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 82.00%;
+  }
+  .gt-levoriclearn-all-coure-gt-e {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 70.20%;
+  }
+  .gt-levoriclearn-all-coure-gt-f {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 75.30%;
+  }
+  .gt-levoriclearn-all-coure-gt-g {
+    color: rgb(11, 97, 255);
+    font-weight: bold;
+    font-size: 26px;
+    margin-right: 78.60%;
+  }
