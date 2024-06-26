@@ -1,0 +1,243 @@
+.levoriclearn-partner-all-around-world-together {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    padding: 55px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background: var(--gfg-tint-color);
+    border-radius: 5px;
+    background: rgb(26, 31, 37);
+    border: 2px solid rgb(120, 90, 255);
+    }
+    .gt-llearn-h1-a {
+      font-size: 30px;
+      padding: 1.2rem;
+      font-weight: bold;
+      border-radius: 30px;
+      border: 1px rgb(255, 255, 255);
+      color: rgb(244, 246, 250);
+      cursor: pointer;
+      background: rgb(99, 57, 252);
+    }
+    .gt-llearn-h1-a:hover {
+        font-size: 30px;
+        padding: 1.2rem;
+        font-weight: bold;
+        border-radius: 30px;
+        border: 1px rgb(255, 255, 255);
+        color: rgb(244, 246, 250);
+        cursor: pointer;
+        background: rgb(35, 57, 255);
+      }
+      .gt-llearn-h1-a:active {
+        font-size: 30px;
+        padding: 1.2rem;
+        font-weight: bold;
+        border-radius: 30px;
+        border: 1px rgb(255, 255, 255);
+        color: rgb(29, 34, 44);
+        cursor: pointer;
+        background: rgb(0, 119, 255);
+      }
+    #grow-b-llearn-a {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(138, 112, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+
+    #grow-b-llearn-a:hover {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(74, 102, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-b-llearn-a:active {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(68, 65, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    .levoriclearn-grow-your-business-a {
+      border-radius: 3px;
+    }
+    #grow-Sales-llearn-b {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      padding: 75px;
+      float: left;
+      cursor: pointer;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      background: rgb(138, 112, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Sales-llearn-b:hover {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(74, 102, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Sales-llearn-b:active {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(68, 65, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Solution-llearn-c {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      padding: 75px;
+      float: left;
+      cursor: pointer;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      background: rgb(138, 112, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Solution-llearn-c:hover {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(74, 102, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Solution-llearn-c:active {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(68, 65, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Teach-llearn-d {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      padding: 75px;
+      float: left;
+      cursor: pointer;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      background: rgb(138, 112, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Teach-llearn-d:hover {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(74, 102, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    #grow-Teach-llearn-d:active {
+      width: 10%;
+      margin-left: 78px;
+      height: 20px;
+      float: left;
+      padding: 75px;
+      display: block;
+      color: rgb(255, 255, 255);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      background: var(--gfg-tint-color);
+      border-radius: 5px;
+      cursor: pointer;
+      background: rgb(68, 65, 255);
+      border: 2px solid rgb(24, 27, 39);
+    }
+    .Grow-gt-llearn {
+      font-weight: bold;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: rgb(241, 246, 249);
+    }
+    .gt-hr-levoriclearn-grow-business-line-a {
+        border: 1px solid rgb(120, 90, 255);
+    }
+
+
+
+#levoric-iconic-gird-box-12-learn-best {
+max-width: 99%;
+margin-left: auto;
+margin-right: auto;
+height: 3140px;
+text-align: center; 
+background: var(--gfg-tint-color);
+border-radius: 5px;
+background: rgb(26, 31, 37);
+border: 0.1px solid rgb(119, 119, 131);
+}

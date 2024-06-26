@@ -1,0 +1,4327 @@
+/* Levoric Learn Code - 1 */
+.Display-inline-html-a-levoriclearn {
+    display: -ms-inline-grid;
+}
+/*.levoriclearn-gt-html-offer-cover-a {
+}*/
+.img-cover-html-levoriclearn-logo-ga-gt-a {
+    margin-right: 70px;
+}
+.levoriclearn-course-html-a {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-a:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-a {
+    padding: 110px 0px 0px;
+}
+.gt-llearn-html-css-a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-a {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-a::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-a {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-a::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-a:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-a:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-a:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-a {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-a {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+
+.levoriclearn-course-html-b {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-b:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-b {
+    padding: 0px 0px 0px;
+}
+.gt-llearn-html-css-b {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-b {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-b::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-b {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-b::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-b:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-b:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-b:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-b {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-b {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-c {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-c:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-c {
+    padding: 0px 0px 0px;
+}
+.gt-llearn-html-css-c {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-c {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-c::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-c {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-c::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-c:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-c:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-c:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-c {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-c {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-d {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-d:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-d {
+    padding: 0px 0px 0px;
+}
+.gt-llearn-html-css-d {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-d {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-d::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-d {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-d::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-d:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-d:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-d:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-d {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-d {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-e {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-e:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-e {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-e {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-e {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-e::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-e {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-e::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-e:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-e:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-e:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-e {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-e {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-f {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-f:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-f {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-f {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-f {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-f::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-f {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-f::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-f:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-f:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-f:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-f {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-f {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-g {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-g:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-g {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-g {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-g {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-g::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-g {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-g::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-g:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-g:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-g:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-g {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-g {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-h {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-h:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-h {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-h {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-h {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-h::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-h {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-h::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-h:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-h:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-h:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-h {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-h {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-i {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-i:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-i {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-i {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-i {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-i::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-i {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-i::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-i:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-i:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-i:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-i {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-i {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-j {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-j:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-j {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-j {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-j {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-j::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-j {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-j::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-j:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-j:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-j:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-j {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-j {
+flex: none;
+max-width: 50%;
+}
+/* Levoric Learn Code - 1 */
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-k {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-k:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-k {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-k {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-k {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-k::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-k {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-k::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-k:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-k:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-k:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-k {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-k {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-l {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-l:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-l {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-l {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-l {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-l::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-l {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-l::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-l:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-l:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-l:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-l {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-l {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-m {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-m:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-m {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-m {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-m {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-m::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-m {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-m::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-m:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-m:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-m:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-m {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-m {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-n {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-n:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-n {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-n {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-n {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-n::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-n {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-n::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-n:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-n:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-n:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-n {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-n {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-o {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-o:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-o {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-o {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-o {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-o::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-o {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-o::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-o:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-o:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-o:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-o {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-o {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-p {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-p:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-p {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-p {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-p::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-p {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-p::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-p:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-p:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-p:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-p {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-p {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-q {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-q:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-q {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-q {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-q {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-q::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-q {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-q::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-q:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-q:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-q:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-q {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-q {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-r {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-r:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-r {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-r {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-r {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-r::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-r {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-r::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-r:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-r:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-r:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-r {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-r {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-s {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-s:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-s {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-s {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-s {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-s::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-s {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-s::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-s:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-s:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-s:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-s {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-s {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-t {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-t:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-t {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-t {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-t {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-t::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-t {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-t::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-t:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-t:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-t:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-t {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-t {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-u {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-u:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-u {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-u {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-u {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-u::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-u {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-u::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-u:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-u:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-u:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-u {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-u {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-v {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-v:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-v {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-v {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-v {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-v::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-v {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-v::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-v:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-v:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-v:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-v {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-v {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-w {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-w:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-w {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-w {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-w {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-w::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-w {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-w::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-w:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-w:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-w:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-w {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-w {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-x {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-x:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-x {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-x {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-x {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-x::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-x {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-x::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-x:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-x:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-x:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-x {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-x {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-y {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-y:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-y {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-y {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-y {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-y::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-y {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-y::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-y:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-y:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-y:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-y {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-y {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-z {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-z:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-z {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-z {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-z {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-z::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-z {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-z::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-z:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-z:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-z:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-z {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-z {
+flex: none;
+max-width: 50%;
+}
+
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-aa {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-aa:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-aa {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-aa {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-aa {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aa::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aa {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-aa::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aa:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aa:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-aa:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aa {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-aa {
+flex: none;
+max-width: 50%;
+}
+
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ab {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ab:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ab {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ab {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ab {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ab::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ab {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ab::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ab:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ab:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ab:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ab {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ab {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ac {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ac:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ac {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ac {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ac {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ac::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ac {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ac::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ac:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ac:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ac:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ac {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ac {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ad {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ad:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ad {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ad {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ad {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ad::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ad {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ad::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ad:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ad:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ad:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ad {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ad {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ae {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ae:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ae {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ae {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ae {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ae::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ae {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ae::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ae:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ae:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ae:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ae {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ae {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-af {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-af:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-af {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-af {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-af {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-af::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-af {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-af::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-af:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-af:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-af:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-af {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-af {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ag {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ag:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ag {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ag {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ag {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ag::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ag {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ag::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ag:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ag:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ag:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ag {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ag {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ah {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ah:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ah {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ah {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ah {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ah::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ah {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ah::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ah:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ah:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ah:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ah {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ah {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ai {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ai:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ai {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ai {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ai {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ai::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ai {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ai::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ai:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ai:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ai:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ai {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ai {
+flex: none;
+max-width: 50%;
+}
+
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-aj {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-aj:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-aj {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-aj {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-aj {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aj::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aj {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-aj::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aj:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aj:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-aj:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aj {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-aj {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ak {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ak:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ak {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ak {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ak {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ak::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ak {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ak::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ak:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ak:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ak:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ak {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ak {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-al {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-al:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-al {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-al {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-al {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-al::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-al {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-al::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-al:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-al:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-al:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-al {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-al {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-am {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-am:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-am {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-am {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-am {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-am::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-am {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-am::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-am:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-am:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-am:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-am {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-am {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-an {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-an:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-an {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-an {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-an {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-an::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-an {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-an::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-an:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-an:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-an:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-an {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-an {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ao {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ao:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ao {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ao {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ao {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ao::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ao {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ao::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ao:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ao:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ao:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ao {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ao {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ap {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ap:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ap {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ap {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ap {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ap::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ap {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ap::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ap:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ap:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ap:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ap {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ap {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-aq {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-aq:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-aq {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-aq {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-aq {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aq::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aq {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-aq::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-aq:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aq:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-aq:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-aq {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-aq {
+flex: none;
+max-width: 50%;
+}
+
+/* Levoric Learn Code - 1 */
+.levoriclearn-course-html-ar {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+    border: 1px solid rgb(75, 75, 75);
+}
+.levoriclearn-course-html-ar:hover {
+    width: 19%;
+    height: 50px;
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #d1edf5), color-stop(100, #70EAFF));
+    background: -moz-linear-gradient(top left, #f5fbff 0%, #f0f7f5 100%);
+    background: -ms-linear-gradient(top left, #00203a 0%, #17503f 100%);
+    background: -o-linear-gradient(top left, #00203a 0%, #c2d1fa 100%);
+    background: linear-gradient(to bottom right, #a5c9e7 0%, #edf5f3 100%);
+    margin-left: 100px;
+    padding: 100px;
+    cursor: pointer;
+    float: left;
+    border-radius: 3px;
+    box-shadow: #222;
+}
+#levoriclearn-gt-link-course-levoriclearn-ar {
+    padding: 0px 0px 5px;
+}
+.gt-llearn-html-css-ar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(78, 81, 255);
+}
+
+.levoriclearn-course-html-ar {
+position: relative;
+display: inline-block;
+width: 100px;
+height: 100px;
+border-radius: 5px;
+background-color: #fff;
+box-shadow: 0 1px 2px rgba(255, 255, 255);
+transition: all 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ar::after {
+content: '';
+position: absolute;
+z-index: -1;
+width: 100%;
+opacity: 0;
+border-radius: 5px;
+box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ar {
+box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.levoriclearn-course-html-ar::after {
+box-shadow: 0 5px 15px rgba(233, 233, 233, 0.3);
+opacity: 0;
+transition: opacity 0.3s ease-in-out;
+}
+
+.levoriclearn-course-html-ar:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ar:hover {
+transform: scale(1.2, 1.2);
+}
+
+.levoriclearn-course-html-ar:hover::after {
+opacity: 1;
+}
+
+.levoriclearn-course-html-ar {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 20pc
+}
+
+.levoriclearn-course-html-ar {
+flex: none;
+max-width: 50%;
+}
