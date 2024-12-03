@@ -39,11 +39,12 @@ Levoric Learn is built to support developers worldwide with a rich library of de
 
 Stay updated, share ideas, and connect with developers worldwide:
 
-- 🌐 **Website**: [Levoric Learn](https://www.levoriclearn.com)
-- 🐦 **Twitter**: [@LevoricLearn](https://x.com/LevoricLearn)
-- 📘 **Facebook**: [@LevoricLearn](https://facebook.com/LevoricLearn)
-- 📸 **Instagram**: [@LevoricLearn](https://instagram.com/LevoricLearn)
-- 🔗 **LinkedIn**: [@LevoricLearn](https://linkedin.com/company/LevoricLearn)
+[![Website](https://img.shields.io/badge/Website-LevoricLearn.com-blue?style=flat-square&logo=Google-Chrome)](https://www.levoriclearn.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40LevoricLearn-1DA1F2?style=flat-square&logo=Twitter)](https://x.com/LevoricLearn)
+[![Facebook](https://img.shields.io/badge/Facebook-%40LevoricLearn-1877F2?style=flat-square&logo=Facebook)](https://facebook.com/LevoricLearn)
+[![Instagram](https://img.shields.io/badge/Instagram-%40LevoricLearn-E4405F?style=flat-square&logo=Instagram)](https://instagram.com/LevoricLearn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40LevoricLearn-0A66C2?style=flat-square&logo=LinkedIn)](https://linkedin.com/company/LevoricLearn)
+
 
 ---
 
